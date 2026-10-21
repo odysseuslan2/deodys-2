@@ -1,0 +1,4 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="400" viewBox="0 0 800 400" role="img" aria-labelledby="title desc">
+<title id="title">Aprender e compartilhar</title><desc id="desc">Duas pessoas ao lado de um computador com símbolo de confirmação.</desc>
+<rect width="800" height="400" rx="24" fill="#e1f3ee"/><circle cx="135" cy="115" r="42" fill="#ae7256"/><path d="M60 300v-90q75-65 150 0v90" fill="#12614f"/><circle cx="665" cy="115" r="42" fill="#704939"/><path d="M590 300v-90q75-65 150 0v90" fill="#27648c"/><rect x="240" y="80" width="320" height="210" rx="18" fill="#123d55"/><rect x="260" y="100" width="280" height="165" rx="8" fill="#fff"/><path d="m350 180 35 35 70-75" fill="none" stroke="#12614f" stroke-width="18" stroke-linecap="round" stroke-linejoin="round"/><path d="M220 310h360l-25 30H245Z" fill="#123d55"/>
+</svg>
