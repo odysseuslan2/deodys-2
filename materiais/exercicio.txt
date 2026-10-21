@@ -1,0 +1,15 @@
+CONECTA DIGITAL — EXERCÍCIO PRÁTICO
+Use apenas informações fictícias.
+
+1. Crie uma pasta chamada Estudos no seu gerenciador de arquivos.
+2. No laboratório, escreva uma lista fictícia com cinco itens.
+3. Clique em Baixar anotação .txt.
+4. Encontre minha-anotacao.txt na pasta de downloads.
+5. Abra o arquivo para conferir seu conteúdo.
+6. Mova o arquivo para a pasta Estudos.
+7. Localize e abra novamente.
+
+Desafio: explique para outra pessoa a diferença entre pasta e arquivo.
+
+Avaliação: sozinho / com ajuda / preciso repetir.
+O laboratório simula pastas, mas a organização real é feita no dispositivo.
