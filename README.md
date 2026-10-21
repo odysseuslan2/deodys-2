@@ -1,84 +1,50 @@
 # Conecta Digital
-Modelo simples e prático de projeto de inclusão digital.
+Projeto prático de inclusão digital para iniciantes, jovens, adultos e idosos.
 
-## Proposta
-Promover autonomia no uso de celulares e computadores por meio de quatro oficinas presenciais de 60 minutos. Público: iniciantes, jovens, adultos e idosos. Turma piloto sugerida: 10 participantes, com um facilitador e um monitor.
+## Comece aqui
+Baixe em **Code → Download ZIP**, extraia a pasta completa e abra **index.html** no navegador. Na página inicial, clique em **Abrir laboratório interativo**.
 
-## Justificativa
-Dificuldades com dispositivos, arquivos e segurança podem limitar a comunicação e o acesso a oportunidades. O projeto oferece um primeiro contato acolhedor, com tarefas úteis e repetição orientada.
+Funciona offline após o download, sem instalar bibliotecas ou configurar servidor. Preserve a estrutura de pastas para manter imagens, estilos e scripts funcionando.
 
-## Objetivos
-- Reconhecer funções básicas do dispositivo e do navegador.
-- Digitar e organizar uma mensagem simples.
-- Identificar pedidos suspeitos de senha e conferir informações.
-- Criar, salvar e localizar um arquivo.
-- Fortalecer a confiança para continuar aprendendo.
+## Recursos
+- Oficinas iniciais, exercício de digitação e quiz de segurança.
+- Laboratório com criação de pastas **simuladas**, reconhecimento de extensões e prévia de e-mail fictício.
+- Editor de anotações com download real de TXT.
+- Duas ilustrações vetoriais próprias em SVG.
+- Fonte ampliada, alto contraste, navegação por teclado e impressão.
+- Roteiro de exercícios para organizar arquivos no dispositivo.
 
-## Como usar o código
-1. Na página do repositório, clique em **Code → Download ZIP**.
-2. Extraia o arquivo ZIP.
-3. Abra **index.html** em um navegador atualizado.
-4. Pratique! Não é necessário instalar bibliotecas, criar conta ou configurar servidor.
+## Organização
+| Caminho | Conteúdo |
+| --- | --- |
+| index.html | Oficinas iniciais e acesso ao laboratório |
+| paginas/laboratorio.html | Quatro desafios interativos |
+| assets/css/portal.css | Estilos e acessibilidade visual |
+| assets/js/laboratorio.js | Lógica das atividades |
+| assets/img/ | Imagens aprender.svg e arquivos.svg |
+| materiais/exercicio.txt | Roteiro para download |
+| docs/GUIA.md | Guia técnico, pedagógico e verificações |
 
-O GitHub exibe o código do HTML; para usar os botões, abra o arquivo baixado no navegador. A página funciona offline depois de baixada. A atividade com editor de texto depende de um editor disponível no dispositivo.
+## Modelo de aplicação
+**Objetivo:** desenvolver autonomia para comunicação, segurança e organização de arquivos. Turma piloto sugerida de 10 participantes, um facilitador e um monitor.
 
-## O que a página oferece
-- Quatro etapas com barra de progresso.
-- Exercício de digitação com conferência da frase.
-- Quiz de três perguntas sobre segurança com resultado e orientação.
-- Tarefa de criação e localização de arquivo.
-- Botão de impressão e guia do facilitador.
-- Layout adaptável a celular, rótulos nos campos e navegação por teclado.
+| Encontro | Atividade | Resultado esperado |
+| --- | --- | --- |
+| 1 — Primeiros passos | Abrir navegador, ajustar volume, usar mouse ou toque | Operar funções básicas |
+| 2 — Comunicação | Digitação e mensagem fictícia no laboratório | Escrever uma mensagem clara |
+| 3 — Segurança | Quiz, senhas exclusivas, verificação em duas etapas e checagem de fontes | Reconhecer condutas seguras |
+| 4 — Arquivos | Pasta simulada, extensões, download e organização real | Salvar e encontrar um arquivo |
 
-## Plano dos encontros
-| Encontro | Tema | Atividade prática | Resultado esperado |
-| --- | --- | --- | --- |
-| 1 | Conhecer o dispositivo | Abrir navegador, ajustar volume e praticar toque ou mouse | Executar ações básicas |
-| 2 | Digitação e comunicação | Copiar a frase e escrever uma mensagem fictícia com saudação, assunto e despedida | Produzir texto simples |
-| 3 | Segurança digital | Responder ao quiz e discutir mensagens suspeitas | Explicar como proteger a conta |
-| 4 | Organização de arquivos | Criar lista de compras, salvar, fechar e localizar | Encontrar o próprio arquivo |
+Cada encontro dura 60 minutos: acolhida (10), demonstração (15), prática (25) e revisão (10). Demonstre uma ação por vez e deixe a pessoa operar.
 
-Em cada encontro: acolhida (10 min), demonstração (15 min), prática (25 min) e revisão (10 min). Nas atividades de e-mail, use exemplos fictícios; não é necessário enviar mensagens nem criar contas.
+## Recursos e custos
+Espaço, energia, um celular ou computador por participante ou dupla e equipe de apoio. Internet é opcional para demonstrações externas. O código não exige serviços pagos; equipamentos, conexão, impressão e transporte devem ser orçados localmente.
 
-## Recursos e custo
-- Espaço com cadeiras, mesas e energia.
-- Um dispositivo por participante ou dupla.
-- Facilitador e monitor voluntários.
-- Internet opcional para demonstrações externas; exercícios da página são offline.
-- Papel e impressão opcionais.
-
-O software não exige contratação de hospedagem ou serviços. Equipamentos, conexão, transporte e impressão devem ser orçados conforme a realidade local; este modelo não pressupõe que esses recursos sejam gratuitos.
-
-## Acompanhamento
-No início, pergunte quais tarefas cada pessoa já realiza. No final, registre de forma agregada:
-- Quantos participaram dos quatro encontros.
-- Quantos conseguiram digitar a frase.
-- Quantos identificaram as três condutas seguras.
-- Quantos salvaram e localizaram um arquivo.
-
-Para cada tarefa, use: **sozinho / com ajuda / precisa praticar**. Meta piloto sugerida: pelo menos 8 dos 10 participantes concluírem três das quatro tarefas, com ou sem ajuda. A meta é proposta, não resultado já alcançado.
-
-## Orientações de acolhimento
-Use linguagem simples, respeite o ritmo de cada pessoa e permita repetição. Ajuste o zoom do navegador quando necessário. Demonstre, mas deixe o participante operar. Ofereça alternativas orais e apoio individual conforme as necessidades.
-
-## Estrutura e personalização
-Todo o projeto está em **index.html**:
-- HTML: textos, formulários e atividades.
-- CSS: cores, tamanho de fonte, layout e impressão.
-- JavaScript: progresso, conferência e pontuação.
-
-Para personalizar, edite os textos e as quatro etapas. Ao mudar a frase, mantenha o elemento com id `frase`; o JavaScript usa seu conteúdo como resposta. Ao mudar o quiz, mantenha os nomes `q1`, `q2` e `q3`, ou ajuste também a lista no código. A alternativa correta usa `value="certo"`.
+## Avaliação
+Observe cada tarefa e registre **sozinho / com ajuda / precisa repetir**. Compare a autonomia no início e no final. Meta piloto sugerida: 8 de 10 participantes realizarem três das quatro tarefas com ou sem ajuda. Trata-se de meta, não resultado alcançado.
 
 ## Privacidade e limites
-Não há cadastro, envio de dados, rastreadores, banco de dados ou dependências externas. As respostas e o progresso permanecem apenas na página e são perdidos ao recarregar ou fechar. Não use senhas reais, CPF ou outros dados pessoais nos exercícios. O modelo não emite certificado nem substitui acompanhamento pedagógico.
+Use dados fictícios. Não há cadastro, rastreadores, armazenamento persistente ou envio de respostas. O simulador não envia e-mails nem cria pastas reais. Respostas e progresso desaparecem ao recarregar. Arquivos baixados ficam no dispositivo e devem ser gerenciados pelo participante.
 
-## Verificação manual
-1. Marque as quatro etapas: a barra deve chegar a 4 de 4.
-2. Desmarque uma etapa: deve voltar a 3 de 4.
-3. Digite a frase exata: deve aparecer a mensagem de acerto.
-4. Digite outra frase: deve aparecer uma orientação para tentar novamente.
-5. Responda o quiz com todas corretas e depois todas erradas: espere 3 de 3 e 0 de 3.
-6. Tente enviar o quiz incompleto: o navegador deve solicitar as respostas.
-7. Use Tab para percorrer os controles e confira a visualização de impressão.
-
-Este roteiro permite validar o funcionamento no dispositivo usado nas oficinas.
+## Personalização e verificação
+Consulte [o guia completo](docs/GUIA.md) para editar o código e conferir as atividades. A sintaxe do JavaScript, os ids de elementos utilizados, os caminhos dos recursos do laboratório e a validade XML das imagens SVG foram verificados. A operação visual, downloads e impressão devem ser conferidos no navegador utilizado nas oficinas.
